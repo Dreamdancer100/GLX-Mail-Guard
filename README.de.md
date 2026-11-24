@@ -21,6 +21,26 @@
 
 ---
 
+## 📖 Über GLX Mail Guard
+
+### Deine Sperrliste wirkt endlich überall
+
+Eine Sperrliste auf dem eigenen Mailserver schützt nur die Postfächer hinter diesem Server, Nextcloud Mail holt aber auch Mails von Gmail, web.de oder dem Vereinspostfach. GLX Mail Guard wendet eine Sperrliste auf jedes Konto an: alle Konten in Nextcloud Mail und deine eigenen Postfächer per IMAP.
+
+### Läuft von selbst, löscht nichts
+
+GLX Mail Guard prüft die Postfächer regelmäßig von selbst und verschiebt Treffer in den Papierkorb. Endgültig gelöscht wird nichts, und zu jeder Mail wird notiert, aus welchem Konto sie kam. Mit eigenem Mailserver sperrt es Domains auf Wunsch auch dort per SSH.
+
+### Zusammen mit GLX Mail und GLX Spam Guard
+
+Einträge kommen per Rechtsklick im Spam-Ordner von GLX Mail. Das Windows-Gegenstück GLX Spam Guard führt dieselbe Liste auf deinem PC, Sperren und Freigaben gleichen sich in beide Richtungen ab.
+
+### Kein Raten
+
+Die App bewertet keine Mails und lernt nicht. Sie verschiebt nur, was ein Mensch auf die Liste gesetzt hat. GLX Mail Guard ist eine Nextcloud-App unter AGPL für Nextcloud 30 bis 34.
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Eine Liste für alle Konten:** Wendet deine Sperrliste auf alle Nextcloud-Mailkonten und deine eigenen IMAP-Postfächer an.

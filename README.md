@@ -21,6 +21,26 @@
 
 ---
 
+## 📖 About GLX Mail Guard
+
+### Your block list finally works everywhere
+
+A block list on your own mail server only protects the mailboxes behind that server, but Nextcloud Mail also fetches mail from Gmail, web.de or your club's mailbox. GLX Mail Guard applies one block list to every account: all Nextcloud Mail accounts and your own mailboxes via IMAP.
+
+### Runs by itself, deletes nothing
+
+GLX Mail Guard checks the mailboxes regularly on its own and moves matches to the trash. Nothing is deleted for good, and for every mail it notes which account it came from. With your own mail server it can also block domains there via SSH.
+
+### Works together with GLX Mail and GLX Spam Guard
+
+Entries come from GLX Mail with a right-click in the spam folder. The Windows companion GLX Spam Guard keeps the same list on your PC, and blocks and releases sync in both directions.
+
+### No guessing
+
+The app does not rate mail and does not learn. It only moves what a person put on the list. GLX Mail Guard is a Nextcloud app under AGPL for Nextcloud 30 to 34.
+
+---
+
 ## ✨ Features
 
 - 🚀 **One list for all accounts:** Applies your block list to every Nextcloud Mail account and your own IMAP mailboxes.
