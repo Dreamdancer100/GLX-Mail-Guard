@@ -41,6 +41,26 @@ The app does not rate mail and does not learn. It only moves what a person put o
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Overview with licence, accounts and running spam check
+
+<p align="center"><img src="screenshots/01-overview.jpg" alt="Overview with licence, accounts and running spam check" width="850"></p>
+
+### 2️⃣ Blocklist with summary from the mail server
+
+<p align="center"><img src="screenshots/02-blocklist.jpg" alt="Blocklist with summary from the mail server" width="850"></p>
+
+### 3️⃣ Settings and mail server connection over SSH
+
+<p align="center"><img src="screenshots/03-settings.jpg" alt="Settings and mail server connection over SSH" width="850"></p>
+
+### 4️⃣ Detailed built-in help
+
+<p align="center"><img src="screenshots/04-help.jpg" alt="Detailed built-in help" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **One list for all accounts:** Applies your block list to every Nextcloud Mail account and your own IMAP mailboxes.

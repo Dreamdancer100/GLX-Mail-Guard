@@ -41,6 +41,26 @@ Die App bewertet keine Mails und lernt nicht. Sie verschiebt nur, was ein Mensch
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Übersicht mit Lizenz, Konten und laufendem Spam-Check
+
+<p align="center"><img src="screenshots/01-overview.jpg" alt="Übersicht mit Lizenz, Konten und laufendem Spam-Check" width="850"></p>
+
+### 2️⃣ Sperrliste mit Zusammenfassung vom Mailserver
+
+<p align="center"><img src="screenshots/02-blocklist.jpg" alt="Sperrliste mit Zusammenfassung vom Mailserver" width="850"></p>
+
+### 3️⃣ Einstellungen und Mailserver-Anbindung per SSH
+
+<p align="center"><img src="screenshots/03-settings.jpg" alt="Einstellungen und Mailserver-Anbindung per SSH" width="850"></p>
+
+### 4️⃣ Ausführliche eingebaute Hilfe
+
+<p align="center"><img src="screenshots/04-help.jpg" alt="Ausführliche eingebaute Hilfe" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Eine Liste für alle Konten:** Wendet deine Sperrliste auf alle Nextcloud-Mailkonten und deine eigenen IMAP-Postfächer an.
